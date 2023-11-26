@@ -7,7 +7,7 @@ export default function Home() {
   <div className="card">
         <div className="header">
           <div className="logo">
-            <a href=".">LOGO</a>
+          <img src='./logoJosaTech.png' className='LogoTest'></img>
           </div>
           <div className="social">
             {/* <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
